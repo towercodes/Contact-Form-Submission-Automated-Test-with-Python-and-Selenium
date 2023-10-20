@@ -1,0 +1,49 @@
+# Selenium and Python Contact Form Testing
+
+## Overview
+
+This program automates the testing of a web form using Selenium. It offers a simple interface for entering test data into a contact form and subsequently validating the test's success. The purpose is to demonstrate automated testing using Selenium.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8 or higher
+- Selenium
+- Chrome
+
+### Installation
+
+1. Clone the repository.
+2. Install Python if you haven't already: [Download Python](https://www.python.org/downloads/).
+3. Install the Selenium package: `pip install selenium`.
+
+## Usage
+
+1. Run the program.
+2. Fill in the test data as prompted.
+3. Wait for the program to finish testing (typically takes a few minutes).
+4. Check the terminal for the test result message.
+
+## Download Executable
+
+You can download the executable file from https://drive.google.com/file/d/10zvBLN5KVpW3y5LnfYemSCAKLISR8zwZ/view?usp=share_link.
+
+## Future Improvements
+
+1. Implement an error logging system.
+2. Make better use of functions with the aim of being able to reuse the code with minimal coding for other test cases.
+3. Create separate test cases for different scenarios, such as handling invalid input.
+
+## Notes
+
+Feel free to test the contact form as much as you want. The form is on my personal blog.
+
+## License
+
+This project is open-source. Feel free to use, modify, and share it as needed.
+
+## Contact Information
+
+- Name: Tawanda Mutasa
+- Email: tawacodes@gmail.com or towermutasa@gmail.com
